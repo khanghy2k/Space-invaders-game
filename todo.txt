@@ -1,0 +1,15 @@
+1. Project setup @done (4-26-23 11:53)
+2. Create a player @done (4-26-23 11:53)
+3. Move The player @done (4-26-23 11:53)
+4.Create Projectiles @done (4-26-23 11:53)
+5. Create an invader @done (4-26-23 11:53)
+6. Create and move grids of invaders @done (4-26-23 11:53)
+7. Spawn grids at intervals @done (4-26-23 11:53)
+    7a.Take into account new grid width
+8. Shoot invaders @done (4-26-23 11:53)
+9. Invaders shoot back
+10. Enemy explosions
+11. Create background stars
+12. Lose condition
+13.Score
+14. Fixed-width canvas
